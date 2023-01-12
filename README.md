@@ -1,2 +1,2 @@
-# coral-redirect
-temporary redirect from coral.app.jku-vds-lab.at to coral.caleydoapp.org
+# injection-molding-redirect
+temporary redirect from injection-molding.jku-vds-lab.at to p2f-moldsonics.caleydoapp.org/
